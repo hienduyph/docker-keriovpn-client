@@ -1,5 +1,9 @@
 # Docker Kerio VPN Client
 
+<a href="https://quay.io/repository/hienduyph/keriovpn-client" target="_blank">
+  <img src="https://quay.io/repository/hienduyph/keriovpn-client/status" target="_blank" alt="container">
+</a>
+
 ## Build
 
 ```bash
